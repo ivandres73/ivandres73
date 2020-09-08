@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 📫 Email: [my email](ivandres73@gmail.com)
 - ⚡ Fact: Raisins are the worst!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ivandres73?theme=graywhite)]
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ivandres73&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandres73)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandres73)](https://github.com/anuraghazra/github-readme-stats)
