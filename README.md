@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently very active in [Gitlab](https://gitlab.com/ivandres73)
 - 🌱 I’m currently learning about DevOps; tools and methodology
 - 💬 Open to talk about anything
