@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Raisins are the worst!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivandres73)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivandres73&hide=contribs,prs)
